@@ -43,6 +43,8 @@ Considere desligar algum aparelho para economizar energia."
 - Controle via aplicativo mobile
 - Reconhecimento de voz offline (sem uso da API do Google)
 
+## Video no YouTube: https://www.youtube.com/watch?v=HfQVeb4lwtg
+
 ## Créditos
 Pedro Henrique Lisboa – RM: 565722
 Pedro Henrique dos Santos Cardoso - RM: 563268
